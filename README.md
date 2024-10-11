@@ -33,8 +33,8 @@ We're always looking for passionate individuals and organizations to join us in 
 
 ### Get in Touch
 
-- Website: [www.eligapris.org](http://www.eligapris.org)
-- Email: contact@eligapris.org
+- Website: [www.eligapris.com](http://www.eligapris.com)
+- Email: contact@eligapris.com
 - Twitter: [@EligaprisTech](https://twitter.com/EligaprisTech)
 - LinkedIn: [Eligapris Organization](https://www.linkedin.com/company/eligapris)
 
